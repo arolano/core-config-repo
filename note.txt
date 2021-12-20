@@ -1,0 +1,1 @@
+Forked and deleted all branches because otherwise android 11 does not build for CHAOSP - aparently automatically pulls default branch from rattlesnake that has incompatible patches. Crude solution was forking and doing away with other branches
